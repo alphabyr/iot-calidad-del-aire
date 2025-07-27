@@ -21,4 +21,4 @@ Desarrollado por:
 OPENWEATHER_API_KEY=claveAPIopenWeatherMapAqui
 THINGSPEAK_API_KEY=ClaveWriteAPIThingSpeakAqui
 ```
-* El script se ejecuta con el comando: python calidad_del_aire.py
+* El script se ejecuta con el comando: python3 calidad_del_aire.py
