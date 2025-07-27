@@ -1,7 +1,7 @@
 
-### PROYECTO IOT PARA ESTUDIAR LA CONTAMINACION DEL AIRE EN AEROPUERTOS A NIVEL MUNDIAL
+### PROYECTO IOT PARA ESTUDIAR LA CONTAMINACION DEL AIRE EN EL AEROPUERTO JFK DE NEW YORK
 
-Este script recopila datos de contaminacion de multiples aeropuertos usando los sensores y API publicos de Open Weather Map, y envia los resultados a un canal de ThingSpeak para su posterior analisis.
+Este script recopila datos de contaminacion del aeropuerto JFK, usando los sensores y API publicos de Open Weather Map, y envia los resultados a un canal de ThingSpeak para su posterior analisis.
 
 Desarrollado por:
 
