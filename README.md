@@ -5,10 +5,10 @@ Este script recopila datos de contaminacion de multiples aeropuertos usando los 
 
 Desarrollado por:
 
-Jesus Delgado Ventajas
-Diego Villatoro Reyes
-Wilson Penaherrera Plua
-Steven Garcia Castrillon
+* Jesus Delgado Ventajas
+* Diego Villatoro Reyes
+* Wilson Penaherrera Plua
+* Steven Garcia Castrillon
 
 #### Requisitos
 * Python version ~3.10
