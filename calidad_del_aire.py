@@ -14,10 +14,7 @@ INTERVALO = 10  # Tiempo entre cada aeropuerto (en segundos)
 # LISTA DE AEROPUERTOS
 AEROPUERTOS = [
     {"nombre": "JFK - New York", "lat": 40.6413, "lon": -73.7781, "codigo": "JFK"},
-    {"nombre": "LHR - London Heathrow", "lat": 51.4700, "lon": -0.4543, "codigo": "LHR"},
-    {"nombre": "CDG - Paris Charles de Gaulle", "lat": 49.0097, "lon": 2.5479, "codigo": "CDG"},
-    {"nombre": "HND - Tokyo Haneda", "lat": 35.5494, "lon": 139.7798, "codigo": "HND"},
-    {"nombre": "GRU - São Paulo", "lat": -23.4356, "lon": -46.4731, "codigo": "GRU"},
+
 ]
 
 def obtener_datos_calidad_aire(lat, lon):
