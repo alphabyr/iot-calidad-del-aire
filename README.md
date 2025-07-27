@@ -17,6 +17,8 @@ Desarrollado por:
 #### Instrucciones:
 
 * Crear un archivo llamado ".env" con las claves secretas para las API con la siguiente estructura:
+```
 OPENWEATHER_API_KEY=claveAPIopenWeatherMapAqui
 THINGSPEAK_API_KEY=ClaveWriteAPIThingSpeakAqui
+```
 * El script se ejecuta con el comando: python calidad_del_aire.py
